@@ -1,0 +1,6 @@
+.vscode/**/*
+*.xml
+*.inl
+node_modules/**/*
+.idea/**/*
+DS_store/**/*
